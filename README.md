@@ -1,7 +1,7 @@
 # Face_Recognition_hnswlib
 
-**Data collection**
+# **Data collection**
 /Image_Dataset_Generator.py
 
-**Search face**
+# **Search face**
 /list_name.py
